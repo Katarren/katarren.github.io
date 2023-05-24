@@ -17,4 +17,10 @@ li em {
 h1 + p {
     font-size: 200%;
   }
+a:link {
+    color: pink;
+  }
+  a:visited {
+    color: green;
+  }
   
