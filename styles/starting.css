@@ -14,4 +14,7 @@ li {
 li em {
     color: rebeccapurple;
   }
+h1 + p {
+    font-size: 200%;
+  }
   
