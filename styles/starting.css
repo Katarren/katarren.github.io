@@ -20,7 +20,10 @@ h1 + p {
 a:link {
     color: pink;
   }
-  a:visited {
+a:visited {
     color: green;
+  }
+a:hover {
+    text-decoration: none;
   }
   
