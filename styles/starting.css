@@ -11,8 +11,7 @@ li {
     color: orange;
     font-weight: bold;
   }
-
-  li em {
+li em {
     color: rebeccapurple;
   }
 h1 + p {
